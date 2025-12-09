@@ -1,0 +1,7 @@
+sample,fastq_1,fastq_2,strandedness
+CTRL_01,s3://my-bucket/fastq/human/CTRL_01_R1.fastq.gz,s3://my-bucket/fastq/human/CTRL_01_R2.fastq.gz,reverse
+CTRL_02,s3://my-bucket/fastq/human/CTRL_02_R1.fastq.gz,s3://my-bucket/fastq/human/CTRL_02_R2.fastq.gz,reverse
+CTRL_03,s3://my-bucket/fastq/human/CTRL_03_R1.fastq.gz,s3://my-bucket/fastq/human/CTRL_03_R2.fastq.gz,reverse
+TREAT_01,s3://my-bucket/fastq/human/TREAT_01_R1.fastq.gz,s3://my-bucket/fastq/human/TREAT_01_R2.fastq.gz,reverse
+TREAT_02,s3://my-bucket/fastq/human/TREAT_02_R1.fastq.gz,s3://my-bucket/fastq/human/TREAT_02_R2.fastq.gz,reverse
+TREAT_03,s3://my-bucket/fastq/human/TREAT_03_R1.fastq.gz,s3://my-bucket/fastq/human/TREAT_03_R2.fastq.gz,reverse

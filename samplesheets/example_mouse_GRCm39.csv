@@ -1,0 +1,7 @@
+sample,fastq_1,fastq_2,strandedness
+WT_01,s3://my-bucket/fastq/mouse/WT_01_R1.fastq.gz,s3://my-bucket/fastq/mouse/WT_01_R2.fastq.gz,reverse
+WT_02,s3://my-bucket/fastq/mouse/WT_02_R1.fastq.gz,s3://my-bucket/fastq/mouse/WT_02_R2.fastq.gz,reverse
+WT_03,s3://my-bucket/fastq/mouse/WT_03_R1.fastq.gz,s3://my-bucket/fastq/mouse/WT_03_R2.fastq.gz,reverse
+KO_01,s3://my-bucket/fastq/mouse/KO_01_R1.fastq.gz,s3://my-bucket/fastq/mouse/KO_01_R2.fastq.gz,reverse
+KO_02,s3://my-bucket/fastq/mouse/KO_02_R1.fastq.gz,s3://my-bucket/fastq/mouse/KO_02_R2.fastq.gz,reverse
+KO_03,s3://my-bucket/fastq/mouse/KO_03_R1.fastq.gz,s3://my-bucket/fastq/mouse/KO_03_R2.fastq.gz,reverse
